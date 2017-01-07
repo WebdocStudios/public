@@ -1,6 +1,8 @@
 ﻿
 ///*** Webdoc.js ***///
 
+//The following code initializes the module
+
 
 
 var Webdoc = (function () {
